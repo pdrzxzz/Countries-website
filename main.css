@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.wrong {
+    border: 2px solid red;
+}
+
+#countries-main {
+    width: 90%;
+}
+
+.country-section {
+    width: 30%;
+    height: 300px;
+    border: 3px solid purple;
+}
